@@ -1,6 +1,6 @@
-Susan Muli
+# Susan Muli
 
-Writer | Digital Content Creator | Copywriter
+### Writer | Digital Content Creator | Copywriter
 
 Welcome to my professional writing portfolio.
 
@@ -10,7 +10,7 @@ My work combines storytelling, research, creativity and strategic communication 
 
 ---
 
-✍️ What I Can Help You With
+## ✍️ What I Can Help You With
 
 * 📰 Article & Blog Writing
 * ✍️ Copywriting
