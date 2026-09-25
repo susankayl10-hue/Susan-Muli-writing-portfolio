@@ -1,98 +1,121 @@
-# Susan Muli
+Susan Muli
 
-### Writer | Digital Content Creator | Copywriter
+Writer | Digital Content Creator | Copywriter
 
-Welcome to my writing portfolio.
+Welcome to my professional writing portfolio.
 
-I am a professional writer and digital content creator with experience developing engaging, clear, and audience-focused content for digital media, social media, corporate communication, and marketing.
+I create clear, engaging and audience-focused content for businesses, brands, media platforms and digital audiences.
 
-My approach combines strong storytelling, research, creativity, and an understanding of different audiences and communication objectives.
-
----
-
-## ✍️ What I Do
-
-* Article & Blog Writing
-* Copywriting
-* Social Media Content
-* Website Content
-* News & Current Affairs Writing
-* Product Descriptions
-* Press Releases
-* Corporate Communication
-* Editing & Proofreading
-* Headlines & Captions
-* Research-Based Writing
+My work combines storytelling, research, creativity and strategic communication to help ideas connect with the right audience.
 
 ---
 
-## 📂 Portfolio
+✍️ What I Can Help You With
 
-### 📰 Articles
+* 📰 Article & Blog Writing
+* ✍️ Copywriting
+* 📱 Social Media Content
+* 🌐 Website Copy
+* 📢 Press Releases
+* 🏢 Corporate Communication
+* 🛍️ Product Descriptions
+* 📝 Editing & Proofreading
+* 💡 Content Ideas & Development
+* 🎯 Headlines & Captions
 
-Articles covering news, health, current affairs, lifestyle, youth, and other topics.
+---
 
-**[View Articles →](./Articles)**
+# 📂 Writing Portfolio
+
+### 📰 Articles & News Writing
+
+Research-driven articles written in a clear, engaging and digital-friendly style.
+
+**[View Article Samples →](./Articles)**
+
+---
 
 ### ✍️ Copywriting
 
-Marketing, promotional, website, and product copy designed to communicate clearly and encourage action.
+Persuasive and customer-focused copy for products, brands and businesses.
 
-**[View Copywriting →](./Copywriting)**
+**[View Copywriting Samples →](./Copywriting)**
 
-### 📱 Social Media
+---
 
-Captions, campaign concepts, promotional content, and audience-focused social media copy.
+### 📱 Social Media Content
 
-**[View Social Media Work →](./Social-Media)**
+Engaging captions and campaign content designed to encourage interaction and build brand presence.
+
+**[View Social Media Samples →](./Social-Media)**
+
+---
 
 ### 📢 Press Releases
 
-Professional press releases and media communication samples.
+Professional corporate and media communication designed to present information clearly and effectively.
 
-**[View Press Releases →](./Press-Releases)**
+**[View Press Release Samples →](./Press-Releases)**
+
+---
 
 ### 🏢 Corporate Communication
 
-Professional communication materials created for organizational and business audiences.
+Professional communication materials for organizations, businesses and professional audiences.
 
-**[View Corporate Communication →](./Corporate-Communication)**
-
----
-
-## 🛠️ Skills
-
-* Content Writing
-* Copywriting
-* Digital Content Creation
-* Social Media Writing
-* Research
-* Editing & Proofreading
-* Storytelling
-* Corporate Communication
-* Audience Engagement
-* Content Strategy
+**[View Corporate Communication Samples →](./Corporate-Communication)**
 
 ---
 
-💻 Tools
+# 🛠️ Skills
 
-* Canva
-* Adobe Photoshop
-* Adobe Illustrator
-* Meta Business Suite
-* Buffer
-* Hootsuite
-* Microsoft Office
+| Writing                | Digital              | Communication           |
+| ---------------------- | -------------------- | ----------------------- |
+| Article Writing        | Social Media Content | Corporate Communication |
+| Copywriting            | Content Creation     | Press Releases          |
+| Blog Writing           | Digital Publishing   | Brand Communication     |
+| Product Descriptions   | Content Strategy     | Audience Engagement     |
+| Editing & Proofreading | Canva                | Research                |
 
 ---
 
-## 📬 Contact
+# 💻 Tools
+
+**Content & Design:**
+Canva • Adobe Photoshop • Adobe Illustrator
+
+**Social Media:**
+Meta Business Suite • Buffer • Hootsuite
+
+**Productivity:**
+Microsoft Word • Microsoft Excel • Google Workspace
+
+---
+
+# 👩🏽‍💻 Professional Background
+
+I have experience in digital content creation, writing, customer communication and professional communication.
+
+My experience includes creating digital content, writing articles, developing social media captions and headlines, researching topics, communicating with audiences and adapting content for different platforms.
+
+I hold a **Bachelor of Applied Communication** and have developed my skills across media, digital content and professional communication.
+
+---
+
+# 📬 Let's Work Together
+
+Looking for a writer who can turn your ideas into clear, engaging content?
+
+I'd love to hear about your project.
 
 **Email:** [susankayl10@gmail.com](mailto:susankayl10@gmail.com)
 
-**LinkedIn:** [Susan Muli](https://www.linkedin.com/in/susankayl-kayl56625b257/)
+**LinkedIn:** [Connect with me on LinkedIn →](https://www.linkedin.com/in/susankayl-kayl56625b257/)
 
 ---
 
-> *Clear words. Strong stories. Content that connects.*
+### ⭐ Available for Freelance Writing Projects
+
+**Articles • Copywriting • Social Media • Website Content • Product Descriptions • Corporate Communication**
+
+> **Clear words. Strong stories. Content that connects.**
